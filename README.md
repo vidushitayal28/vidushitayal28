@@ -49,6 +49,6 @@ I believe in writing **clean, readable code**, documenting my work properly, and
 ## 🤝 Let’s Connect
 
 - GitHub: [@vidushitayal28](https://github.com/vidushitayal28)  
-- LinkedIn: *(add your LinkedIn link here)*  
+- LinkedIn: www.linkedin.com/in/vidushi-tayal-587907378
 
 I’m always open to learning, collaboration, and feedback 🙂
